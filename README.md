@@ -19,7 +19,7 @@
 
 </div>
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/Samirlb/Samirlb/master/assets/bot.svg" height="78" alt="" /></div>
 
 ![About](https://img.shields.io/badge/01-ABOUT-0D1117?style=for-the-badge&labelColor=38BDF8)
 
@@ -27,7 +27,7 @@ Mobile engineer building **native iOS** with Swift and SwiftUI, and **cross-plat
 
 > **Focus** &nbsp;·&nbsp; SwiftUI motion &nbsp;·&nbsp; React Native new architecture &nbsp;·&nbsp; developer experience
 
-<div align="center"><img src="https://raw.githubusercontent.com/Samirlb/Samirlb/master/assets/bot.svg" height="78" alt="" /></div>
+<br/>
 
 ![Stack](https://img.shields.io/badge/02-STACK-0D1117?style=for-the-badge&labelColor=38BDF8)
 
@@ -57,14 +57,14 @@ Mobile engineer building **native iOS** with Swift and SwiftUI, and **cross-plat
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<div align="center"><img src="https://raw.githubusercontent.com/Samirlb/Samirlb/master/assets/bot.svg" height="78" alt="" /></div>
+<br/>
 
 ![GitHub](https://img.shields.io/badge/03-GITHUB-0D1117?style=for-the-badge&labelColor=38BDF8)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samirlb&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=38bdf8&icon_color=38bdf8&text_color=9badc4" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirlb&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=38bdf8&text_color=9badc4" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samirlb&show_icons=true&hide_border=true&theme=tokyonight" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirlb&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top langs" />
 
 <br/><br/>
 
@@ -83,4 +83,4 @@ Mobile engineer building **native iOS** with Swift and SwiftUI, and **cross-plat
 <a href="https://www.linkedin.com/in/samir-lora/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:Samirlora0@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 
-<sub>Open to iOS / React Native opportunities</sub>
+<sub>Open to mobile opportunities</sub>
