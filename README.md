@@ -1,7 +1,7 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--   Samir Lora — GitHub profile README                              -->
-<!--   Edit placeholders marked <!-- TODO --> and your social links.   -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!--
+  Samir Lora - GitHub profile README
+  Personalize: social links and the "currently going deeper on" line.
+-->
 
 <div align="center">
 
