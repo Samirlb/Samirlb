@@ -63,16 +63,20 @@ Mobile engineer building **native iOS** with Swift and SwiftUI, and **cross-plat
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samirlb&show_icons=true&hide_border=true&theme=tokyonight" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirlb&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samirlb&show_icons=true&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=9badc4" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirlb&layout=compact&hide_border=false&border_color=30363d&border_radius=10&bg_color=0d1117&langs_count=8&title_color=38bdf8&text_color=9badc4" alt="top langs" />
 
 <br/><br/>
 
+<table>
+<tr><td>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samirlb/Samirlb/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samirlb/Samirlb/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Samirlb/Samirlb/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+</td></tr>
+</table>
 
 </div>
 
