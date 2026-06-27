@@ -1,103 +1,72 @@
 <!--
   Samir Lora - GitHub profile README
-  Personalize: social links and the "currently going deeper on" line.
+  Personalize: social links and the "Focus" line.
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f334d,100:7aa2f7&height=200&section=header&text=Samir%20Lora&fontColor=c0caf5&fontSize=58&fontAlignY=36&desc=Mobile%20Engineer%20-%20iOS%20and%20React%20Native&descAlignY=58&descSize=18&animation=fadeIn" alt="Samir Lora" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Mobile+Engineer+-+iOS+and+React+Native;Native+iOS+with+Swift+and+SwiftUI;Cross-platform+with+React+Native+and+TypeScript;Clean+%2F+Hexagonal+architecture+by+default;Also+crafting+dev+tools+in+Rust+and+Bash" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2540,100:14467a&height=170&section=header&text=Samir%20Lora&fontColor=ffffff&fontSize=52&fontAlignY=44&desc=Mobile%20Engineer%20-%20iOS%20and%20React%20Native&descAlignY=66&descSize=18&descColor=cdd9e5" alt="Samir Lora" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Samirlb&label=Profile%20views&color=7aa2f7&style=flat-square" alt="profile views" />
-<a href="https://github.com/Samirlb?tab=followers"><img src="https://img.shields.io/github/followers/Samirlb?label=Follow&style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="followers" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Mobile+Engineer+-+iOS+and+React+Native;Native+iOS+with+Swift+and+SwiftUI;Cross-platform+with+React+Native+and+TypeScript;Clean+%2F+Hexagonal+architecture%2C+tested+by+default" alt="Roles" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/samir-lora/"><img src="https://img.shields.io/badge/LinkedIn-0A2540?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:Samirlora0@gmail.com"><img src="https://img.shields.io/badge/Email-0A2540?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=Samirlb&label=Profile%20views&color=0a2540&style=flat-square" alt="views" />
 
 </div>
 
----
+<br/>
 
-### 👋 About me
+## 01 · About
 
-```swift
-struct Engineer {
-    let name      = "Samir Lora"
-    let role      = "Mobile Engineer"
-    let focus     = ["iOS · Swift / SwiftUI", "React Native · TypeScript"]
-    let alsoShips = ["Flutter / Dart", "Kotlin / Android"]
-    let loves     = ["clean architecture", "great DX", "terminal-driven workflows"]
-    let buildsToo = "developer tooling — CLIs, automation, productivity kits"
-}
-```
+Mobile engineer building **native iOS** with Swift and SwiftUI, and **cross-platform** apps with React Native and TypeScript. Architecture-first — Clean / Hexagonal / Screaming, tested by default. I also build developer tooling and automation in Rust and Bash.
 
-- 📱 I build **native iOS** (Swift / SwiftUI) and **cross-platform** apps (React Native).
-- 🧱 Architecture-first: **Clean / Hexagonal / Screaming**, atomic design, tested by default.
-- ⚙️ I craft **developer tools** and automation — terminal-native, fast, zero-friction.
-- 🌱 Currently going deeper on: **SwiftUI motion**, **React Native's new architecture**, and **Rust CLIs**.
+**Focus** &nbsp;·&nbsp; SwiftUI motion &nbsp;·&nbsp; React Native new architecture &nbsp;·&nbsp; developer experience
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 02 · Stack
 
-**Mobile — primary**
+**Mobile**
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0086D3?style=for-the-badge&logo=swift&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat-square&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Mobile — also ship**
+**Also ship**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Tools & DevEx**
+**Tools**
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-0A2540?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-0A2540?style=flat-square&logo=gnubash&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-0A2540?style=flat-square&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-0A2540?style=flat-square&logo=tmux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0A2540?style=flat-square&logo=docker&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-0A2540?style=flat-square&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0A2540?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A2540?style=flat-square&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0A2540?style=flat-square&logo=figma&logoColor=white)
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 03 · GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samirlb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b27" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Samirlb&hide_border=true&theme=tokyonight&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Samirlb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=8b949e" alt="stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirlb&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=2f81f7&text_color=8b949e" alt="top langs" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirlb&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=7aa2f7&bg_color=1a1b27" alt="top langs" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samirlb&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&theme=tokyo-night" alt="activity graph" />
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Samirlb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
----
-
-### 🐍 Contribution snake
-
-<div align="center">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samirlb/Samirlb/output/github-contribution-grid-snake-dark.svg" />
@@ -107,17 +76,8 @@ struct Engineer {
 
 </div>
 
----
+<br/>
 
-### 🤝 Connect
+## 04 · Connect
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/samir-lora/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:Samirlora0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:2f334d,100:1a1b27&height=120&section=footer" alt="" />
-</div>
+**[LinkedIn &rarr;](https://www.linkedin.com/in/samir-lora/)** &nbsp;&nbsp;·&nbsp;&nbsp; **[Email &rarr;](mailto:Samirlora0@gmail.com)**
