@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f334d,100:7aa2f7&height=200&section=header&text=Samir%20Lora&fontColor=c0caf5&fontSize=58&fontAlignY=36&desc=Mobile%20Engineer%20·%20iOS%20%26%20React%20Native%20·%20Builder%20of%20dev%20tools&descAlignY=58&descSize=18&animation=fadeIn" alt="Samir Lora" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f334d,100:7aa2f7&height=200&section=header&text=Samir%20Lora&fontColor=c0caf5&fontSize=58&fontAlignY=36&desc=Mobile%20Engineer%20-%20iOS%20and%20React%20Native&descAlignY=58&descSize=18&animation=fadeIn" alt="Samir Lora" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Building+native+iOS+with+Swift+%26+SwiftUI;Shipping+cross-platform+with+React+Native;Clean+%2F+Hexagonal+architecture+by+default;Crafting+developer+tools+in+Rust+%26+Bash" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Mobile+Engineer+-+iOS+and+React+Native;Native+iOS+with+Swift+and+SwiftUI;Cross-platform+with+React+Native+and+TypeScript;Clean+%2F+Hexagonal+architecture+by+default;Also+crafting+dev+tools+in+Rust+and+Bash" alt="Typing SVG" />
 </a>
 
 <br/>
