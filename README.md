@@ -27,7 +27,7 @@ Mobile engineer building **native iOS** with Swift and SwiftUI, and **cross-plat
 
 > **Focus** &nbsp;·&nbsp; SwiftUI motion &nbsp;·&nbsp; React Native new architecture &nbsp;·&nbsp; developer experience
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/Samirlb/Samirlb/master/assets/bot.svg" height="78" alt="" /></div>
 
 ![Stack](https://img.shields.io/badge/02-STACK-0D1117?style=for-the-badge&labelColor=38BDF8)
 
@@ -57,7 +57,7 @@ Mobile engineer building **native iOS** with Swift and SwiftUI, and **cross-plat
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/Samirlb/Samirlb/master/assets/bot.svg" height="78" alt="" /></div>
 
 ![GitHub](https://img.shields.io/badge/03-GITHUB-0D1117?style=for-the-badge&labelColor=38BDF8)
 
@@ -76,8 +76,11 @@ Mobile engineer building **native iOS** with Swift and SwiftUI, and **cross-plat
 
 </div>
 
-<br/>
+<div align="center"><img src="https://raw.githubusercontent.com/Samirlb/Samirlb/master/assets/bot.svg" height="78" alt="" /></div>
 
 ![Connect](https://img.shields.io/badge/04-CONNECT-0D1117?style=for-the-badge&labelColor=38BDF8)
 
-**[LinkedIn &rarr;](https://www.linkedin.com/in/samir-lora/)** &nbsp;&nbsp;·&nbsp;&nbsp; **[Email &rarr;](mailto:Samirlora0@gmail.com)**
+<a href="https://www.linkedin.com/in/samir-lora/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:Samirlora0@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+
+<sub>Open to iOS / React Native opportunities</sub>
