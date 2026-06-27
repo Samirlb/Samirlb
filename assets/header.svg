@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Samir Lora - Mobile Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1120"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="30%" r="60%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0e7490"/>
+      <stop offset="0.5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#38bdf8" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- pulsing glow -->
+  <rect width="1200" height="300" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- scanline -->
+  <rect x="0" y="0" width="1200" height="2" fill="#38bdf8" opacity="0.10">
+    <animate attributeName="y" values="-2;300" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- moving waves -->
+  <g opacity="0.55">
+    <path fill="none" stroke="url(#wave)" stroke-width="2.5"
+      d="M0 250 Q100 228 200 250 T400 250 T600 250 T800 250 T1000 250 T1200 250 T1400 250 T1600 250 T1800 250 T2000 250 T2200 250 T2400 250">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g opacity="0.30">
+    <path fill="none" stroke="#0e7490" stroke-width="2"
+      d="M0 265 Q100 285 200 265 T400 265 T600 265 T800 265 T1000 265 T1200 265 T1400 265 T1600 265 T1800 265 T2000 265 T2200 265 T2400 265">
+      <animateTransform attributeName="transform" type="translate" from="-400 0" to="0 0" dur="11s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- node mesh accent (right) -->
+  <g fill="#38bdf8">
+    <circle cx="1040" cy="70" r="2.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1110" cy="110" r="2"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="120" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="6s" repeatCount="indefinite"/></circle>
+    <path d="M1040 70 L1110 110 L980 120 Z" fill="none" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="1"/>
+  </g>
+
+  <!-- text -->
+  <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="66" font-weight="800" fill="#ffffff" letter-spacing="1">Samir Lora</text>
+  <rect x="540" y="172" width="120" height="3" rx="1.5" fill="#38bdf8">
+    <animate attributeName="width" values="0;120" dur="1.2s" begin="0.2s" fill="freeze"/>
+    <animate attributeName="x" values="600;540" dur="1.2s" begin="0.2s" fill="freeze"/>
+  </rect>
+  <text x="600" y="205" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="4" fill="#7dd3fc">MOBILE ENGINEER  ·  iOS / REACT NATIVE</text>
+</svg>

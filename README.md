@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0e7490&height=180&section=header&text=Samir%20Lora&fontColor=ffffff&fontSize=54&fontAlignY=44&desc=Mobile%20Engineer%20-%20iOS%20and%20React%20Native&descAlignY=66&descSize=18&descColor=7dd3fc" alt="Samir Lora" />
+<img width="100%" src="https://raw.githubusercontent.com/Samirlb/Samirlb/master/assets/header.svg" alt="Samir Lora - Mobile Engineer" />
 
 <br/>
 
@@ -63,7 +63,7 @@ Mobile engineer building **native iOS** with Swift and SwiftUI, and **cross-plat
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samirlb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=38bdf8&icon_color=38bdf8&text_color=9badc4&hide_title=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samirlb&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=38bdf8&icon_color=38bdf8&text_color=9badc4" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirlb&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=38bdf8&text_color=9badc4" alt="top langs" />
 
 <br/><br/>
